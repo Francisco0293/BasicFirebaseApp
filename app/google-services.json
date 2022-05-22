@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "101973770065",
+    "project_id": "moviles-2022-primavera-d9b64",
+    "storage_bucket": "moviles-2022-primavera-d9b64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101973770065:android:6e698a5cc767b2a307dd70",
+        "android_client_info": {
+          "package_name": "mx.edu.itm.link.basicfirebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "101973770065-fttu9s5t7dmkrn1ta2k5jtfbqs5ifk6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvFOEDn-xIjWIMkYx9HQ0TABy7Y6ypau8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "101973770065-fttu9s5t7dmkrn1ta2k5jtfbqs5ifk6t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
